@@ -1,6 +1,8 @@
 
 ![SS!](https://github.com/karmakarsagar37/Weather-forecast/blob/master/ss.JPG)
 
+![invalid!](https://github.com/karmakarsagar37/Weather-forecast/blob/master/Invalid.JPG)
+
 
 
 
